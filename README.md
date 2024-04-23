@@ -1,8 +1,7 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joaopedrosilva00/"><i>João Pedro</i></a> 😉</h1>
-  <p align="center">Estudante de Engenharia de Computação 💻, na Universidade de Brasília. 
-   <p align="center"> Amo tecnologia, especificamente na área de desenvolvimento de Hardware.
-    <p align="center">Atualmente estou aprimorando na área de IOT, fazendo pequenos projetos com ESP32.
+  <p align="center">Formado em Engenharia de Computação 💻, na Universidade de Brasília. 
+    <p align="center">Atualmente estou aprimorando na área de desenvolvimento FrontEnd.
     
 
 
